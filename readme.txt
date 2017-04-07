@@ -1,2 +1,1 @@
-xwx
-love
+Creating a new branch is quick.
